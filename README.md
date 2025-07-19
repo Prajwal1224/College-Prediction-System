@@ -21,10 +21,12 @@ College Dekho is a smart and simple **college prediction system** designed to he
 | **XAMPP** | Local server setup |
 
 ## 📸 Screenshots
-
-![Home Page](./ScreenShots/c1.png)
+**HOME PAGE**
+![Home Page](./ScreenShots/c2.png)
+**PREDICTION RESULT**
 ![Prediction Result](./ScreenShots/c3.png)
-![Login Page](./ScreenShots/c2.png)
+**LOGIN PAGE**
+![Login Page](./ScreenShots/c1.png)
 
 ## 🧠 How It Works
 
