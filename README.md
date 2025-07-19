@@ -22,9 +22,9 @@ College Dekho is a smart and simple **college prediction system** designed to he
 
 ## 📸 Screenshots
 
-![Home Page](./screenshots/c1.png)
-![Prediction Result](./screenshots/c3.png)
-![Login Page](./screenshots/c2.png)
+![Home Page](./ScreenShots/c1.png)
+![Prediction Result](./ScreenShots/c3.png)
+![Login Page](./ScreenShots/c2.png)
 
 ## 🧠 How It Works
 
